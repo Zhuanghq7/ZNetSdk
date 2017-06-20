@@ -4,5 +4,5 @@
 ----
 **直接下载jar**  
 客户端new个ZClient,调用ZSend()自带三次重传   
-服务端new个ZServer,配置端口与CALLBACK   
+服务端new个ZServer,配置端口与CALLBACK 然后ZStart()=- =就不用管了
 
